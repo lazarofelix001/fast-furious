@@ -1,0 +1,2 @@
+personaje 1 
+personaje 2
